@@ -7,6 +7,10 @@
 
 <img align="right" width=175 src="buildroot/share/pixmaps/logo/marlin-250.png" />
 
+Phoobs Modified Marlin firmware to work on a Creality Ender 5 Plus running a Mini SKR E3 V3.0, Also running a TFT70 V3 Screen.
+phoob#0001 on discord for any questions
+
+
 Additional documentation can be found at the [Marlin Home Page](https://marlinfw.org/).
 Please test this firmware and let us know if it misbehaves in any way. Volunteers are standing by!
 
